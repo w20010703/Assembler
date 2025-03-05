@@ -1,0 +1,26 @@
+{
+  "id": "0420bb32-a4bf-434f-beb0-00f2eaaf05fa",
+  "identity": {
+    "name": "assemblerfinal",
+    "version": "0.1",
+    "publisher": {
+      "email": "wc683@cornell.edu",
+      "name": "Weiching Chen"
+    }
+  },
+  "settings": {
+    "buildPath": "build/",
+    "buildTarget": {
+      "appName": "Rhino3D",
+      "appVersion": {
+        "major": 8
+      },
+      "title": "Rhino3D (8.*)",
+      "slug": "rh8"
+    },
+    "publishTarget": {
+      "title": "McNeel Yak Server"
+    }
+  },
+  "codes": []
+}

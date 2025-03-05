@@ -1,0 +1,17 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{02fe8045-bbb8-4621-93a2-dc314e0061f6}") = "Assembler.GH", "Assembler.GH\Assembler.GH.csproj", "{9dfcd4e0-f14f-48b5-8205-a0a8c5648cd2}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9dfcd4e0-f14f-48b5-8205-a0a8c5648cd2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{9dfcd4e0-f14f-48b5-8205-a0a8c5648cd2}.Release|Any CPU.Build.0 = Release|Any CPU
+
+	EndGlobalSection
+EndGlobal
